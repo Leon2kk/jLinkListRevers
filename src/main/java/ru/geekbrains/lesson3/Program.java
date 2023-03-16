@@ -5,17 +5,6 @@ public class Program {
 
     public static void main(String[] args) {
   
-        /*
-        int[] testArr = new int[]{-5, 100, -1, 3, 4, 5, 9, 22, 9, 101, -6};
-        
-        System.out.printf("До сортировки \n");
-        ArrayUtils.printArray(testArr);
-        piramidSort(testArr);
-        
-        System.out.printf("После пирамидальной сортировки \n");
-        ArrayUtils.printArray(testArr);
-        */
-
         ListLink listLink = new ListLink(); 
 
         listLink.addBack(1);
